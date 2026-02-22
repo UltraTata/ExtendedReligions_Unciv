@@ -46,58 +46,65 @@ ReligionIcons/Gnosticism
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Islam
+ReligionIcons/Isese
   rotate: false
   xy: 628, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Jainism
+ReligionIcons/Islam
   rotate: false
   xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Judaism
+ReligionIcons/Jainism
   rotate: false
   xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Manicheism
+ReligionIcons/Judaism
   rotate: false
   xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Muism
+ReligionIcons/Manicheism
   rotate: false
   xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Tengriism
+ReligionIcons/Muism
   rotate: false
   xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Tenrikyo
+ReligionIcons/Tengriism
   rotate: false
   xy: 1252, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Zoroastrianism
+ReligionIcons/Tenrikyo
   rotate: false
   xy: 1252, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Zoroastrianism
+  rotate: false
+  xy: 1460, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
